@@ -28,7 +28,7 @@ class Connexion extends Component {
           <input
             value={this.state.pseudo}
             onChange={this.handleChange}
-            placeholder='pseudo'
+            placeholder='Pseudo'
             type='text'
             required />
           <button type='submit'>GO</button>
